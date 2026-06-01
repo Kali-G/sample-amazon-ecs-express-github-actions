@@ -3,7 +3,7 @@
 This project demonstrates deploying the [AWS Containers Retail Sample](https://github.com/aws-containers/retail-store-sample-app/tree/main) UI Application Deployment to Amazon ECS Express Mode with automated deployment pipeline using Amazon ECS "Deploy Express Service" Action for GitHub Actions
 
 The UI original Dockerfile is available [here](https://github.com/aws-containers/retail-store-sample-app/blob/main/src/ui/Dockerfile)
-
+small change
 **This project is intended for educational purposes only and not for production use**
 
 ![Screenshot](screenshot.png)
